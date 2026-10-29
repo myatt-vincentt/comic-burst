@@ -1,10 +1,10 @@
 {
   "title": "Comic Burst",
   "description": "Swipe your hand across the screen and the room bursts into a pop-art comic world. Swipe again to go back.",
-  "image": "/images/og-default.jpg",
+  "image": "/images/comic-burst-thumbnail.jpg",
   "imageAlt": "Comic Burst — a camera experience built with Vincentt",
-  "imageWidth": 1200,
-  "imageHeight": 630,
+  "imageWidth": 941,
+  "imageHeight": 1672,
   "imageType": "image/jpeg",
   "url": "https://comic-burst.vincentt.app"
 }

@@ -10,6 +10,7 @@ again, either way, to wipe back to the room. On a touch screen a finger swipe do
 new wipe-in takes the next of four palettes: neon pop, sunset, mint and red, manga. The picture
 fills the whole screen.
 
+- Thumbnail: `public/images/comic-burst-thumbnail.jpg` (the share image).
 - The swipe: palm x from the SDK hand tracker; a swipe is one long, fast, level run that starts
   from rest, so waving never counts (`src/comic/sim/swipe.ts`). The wipe follows the hand and
   finishes on its own (`sim/wipe.ts`).
